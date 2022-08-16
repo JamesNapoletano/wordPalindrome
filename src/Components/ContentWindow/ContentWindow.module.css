@@ -1,0 +1,14 @@
+.contentWindow {
+    padding: 25px;
+    border: 3px solid #443426;
+    max-width: 245px;
+    min-width: 245px;
+}
+.title {
+    color: #443426;
+    border: 3px solid #443426;
+    padding: 10px;
+    font-size: 32pt;
+    font-style: oblique;
+    margin: 0%;
+}
